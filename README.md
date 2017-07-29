@@ -49,6 +49,15 @@ export const handler = createLambda(
 
 ```
 
+## pug(options)
+
+- `options.root`
+    - A path of a directory to be stored template files.
+- `options.ext`
+    - An extension name of a template file.
+- `options.pugOptions`
+    - An options that are passed to pug.
+
 ## License
 
 MIT
