@@ -27,7 +27,7 @@
     "url": "git+https://github.com/pambda/pambda-pug.git"
   },
   "scripts": {
-    "prepare": "npm test",
+    "prepublishOnly": "npm test",
     "test": "tape test/test*.js"
   },
   "files": [
