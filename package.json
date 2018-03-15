@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "callsite": "^1.0.0",
-    "pug": "^2.0.0-rc.2"
+    "pug": "^2.0.1"
   },
   "devDependencies": {
-    "tape": "^4.7.0"
+    "tape": "^4.9.0"
   },
   "homepage": "https://github.com/pambda/pambda-pug",
   "keywords": [
